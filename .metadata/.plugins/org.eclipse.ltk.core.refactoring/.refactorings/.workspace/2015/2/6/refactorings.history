@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;javascript_student.git&apos; to &apos;javascript_student&apos;" description="Rename resource &apos;javascript_student.git&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/javascript_student.git" name="javascript_student" stamp="1423108460971" updateReferences="true"/>
-</session>
